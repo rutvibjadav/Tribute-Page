@@ -109,9 +109,9 @@ These are testing instructions; verify the website at each size before claiming 
 
 The live website URL and successful deployment should be recorded here after deployment:
 
-**Live Website:** Add your published GitHub Pages URL here.
+Live Website: https://rutvibjadav.github.io/Tribute-Page/
 
-**GitHub Repository:** Add your public repository URL here.
+Live Website: https://rutvibjadav.github.io/Tribute-Page/
 
 ## Rollback and Recovery
 
