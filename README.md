@@ -45,7 +45,7 @@ Tribute-Page/
 ```
 
 **Note:** The portrait image is optional if the website uses the externally hosted Wikimedia Commons image. The `evidence/` folder contains screenshots documenting the project and rollback test.
-```
+
 
 **Note:** The local portrait image is optional if the website uses the externally hosted Wikimedia Commons image. The `assets/images/` directory is needed if you choose to store the portrait locally.
 
