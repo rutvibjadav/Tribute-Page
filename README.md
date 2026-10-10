@@ -29,13 +29,22 @@ No JavaScript, CSS frameworks, or build tools are used.
 ## Project Structure
 
 ```text
-tribute-page/
+## Project Structure
+
+```text
+Tribute-Page/
 ├── index.html
 ├── style.css
 ├── README.md
-└── assets/
-    └── images/
-        └── apj-abdul-kalam.jpg
+├── assets/
+│   └── images/
+│       └── apj-abdul-kalam.jpg (optional)
+└── evidence/
+    ├── Screenshot 2026-10-10 135049.png
+    └── Screenshot 2026-10-10 135119.png
+```
+
+**Note:** The portrait image is optional if the website uses the externally hosted Wikimedia Commons image. The `evidence/` folder contains screenshots documenting the project and rollback test.
 ```
 
 **Note:** The local portrait image is optional if the website uses the externally hosted Wikimedia Commons image. The `assets/images/` directory is needed if you choose to store the portrait locally.
